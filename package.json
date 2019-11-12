@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "test-programmatic-jupyter-notebook-cell-creation",
+  "version": "0.0.0",
+  "description": "(none)",
+  "license": "Apache-2.0",
+  "author": "Athan Reines",
+  "main": "",
+  "scripts": {},
+  "homepage": "https://github.com/kgryte/test-programmatic-jupyter-notebook-cell-creation",
+  "bugs": {
+    "url": "https://github.com/kgryte/test-programmatic-jupyter-notebook-cell-creation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kgryte/test-programmatic-jupyter-notebook-cell-creation.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": []
+}
